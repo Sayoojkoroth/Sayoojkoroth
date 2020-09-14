@@ -14,7 +14,6 @@ Hi, I'm Sayooj Koroth, a Computer science Undergrad 🚀 from Kerala, India.
 - 💬 Ask me about anything, I am happy to help
 - ⚡️ Fun-Fact: I started writing blogs, by publishing them on my own website in 2020
 - 📫 How to reach me: sayoojkoroths79@gmail.com
-- 📝[Resume]()
 
 **Languages and Tools:**
 
