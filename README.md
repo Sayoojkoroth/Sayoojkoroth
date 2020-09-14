@@ -10,7 +10,7 @@ Hi, I'm Sayooj Koroth, a Computer science Undergrad 🚀 from Kerala, India.
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I try to love everything i do.
-- 🌱 I’m currently started learning ML bit by bit. 
+- 🌱 I currently started learning ML bit by bit. 
 - 💬 Ask me about anything, I am happy to help
 - ⚡️ Fun-Fact: I started writing blogs, by publishing them on my own website in 2020
 - 📫 How to reach me: sayoojkoroths79@gmail.com
